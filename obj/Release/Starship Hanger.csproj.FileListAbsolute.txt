@@ -1,0 +1,316 @@
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.exe.config
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder Starship Hanger.exe
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.exe
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+D:\Users\Shaun\Documents\Visual Studio 2015\Projects\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\SFDataBase.mdf
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Dapper.dll
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\itextsharp.dll
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Dapper.xml
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\itextsharp.xml
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\allis\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+D:\WorkingConnectedStarFinder\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+D:\WorkingConnectedStarFinder\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+D:\WorkingConnectedStarFinder\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\SFDataBase.mdf
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Dapper.dll
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\itextsharp.dll
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\Dapper.xml
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\itextsharp.xml
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+D:\Users\Shaun\Desktop\StarFCURRENT\PROJECT Starship_10-20-2017wPdf\PROJECT Starship_10-20-2017\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+D:\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+D:\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+D:\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+F:\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+F:\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+F:\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\SFDataBase.mdf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\Dapper.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\EntityFramework.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\itextsharp.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\System.Data.Common.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\System.Data.SqlClient.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\Dapper.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\EntityFramework.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\itextsharp.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 10.31.2017\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\SFDataBase.mdf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\Dapper.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\EntityFramework.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\itextsharp.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\System.Data.Common.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\System.Data.SqlClient.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\Dapper.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\EntityFramework.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\itextsharp.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship Working\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\SFDataBase.mdf
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\Dapper.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\EntityFramework.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\itextsharp.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\System.Data.Common.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\System.Data.SqlClient.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\System.Data.SqlServerCe.dll
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\Dapper.xml
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\EntityFramework.xml
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.xml
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\itextsharp.xml
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+D:\Users\Shaun\Desktop\PROJECT Starship 11.24.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\SFDataBase.mdf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\Dapper.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\EntityFramework.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\itextsharp.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\System.Data.Common.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\System.Data.SqlClient.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\Dapper.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\EntityFramework.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\itextsharp.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.RandomizedSelection.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 11.29.2017\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\SFDataBase.mdf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\Dapper.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\EntityFramework.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\itextsharp.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\System.Data.Common.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\System.Data.SqlClient.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\Dapper.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\EntityFramework.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\itextsharp.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.RandomizedSelection.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.1.2017\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\SFDataBase.mdf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Dapper.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\itextsharp.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.Common.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SqlClient.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Dapper.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\itextsharp.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.RandomizedSelection.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+C:\Users\Slate\Desktop\SchoolProjects\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\SFDataBase.mdf
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Dapper.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\itextsharp.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.Common.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SqlClient.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\Dapper.xml
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.xml
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\itextsharp.xml
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.RandomizedSelection.resources
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+C:\Users\Slate\Desktop\PROJECT Starship 12.4.2017\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\obj\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\SFDataBase.mdf
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\SFDataBase_log.ldf
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\Dapper.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\EntityFramework.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\itextsharp.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\System.Data.Common.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\System.Data.SqlClient.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\System.Data.SQLite.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\Dapper.xml
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\EntityFramework.xml
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\itextsharp.xml
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\bin\Release\System.Data.SQLite.xml
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\obj\Release\Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.RandomizedSelection.resources
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\obj\Release\Starfinder_Starship_Hanger.ShipSheetOutput.resources
+C:\Users\Slate\Desktop\PROJECT Starship Final\PROJECT Starship\obj\Release\Starship Hanger.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.exe.config
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.exe
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\bin\Release\Starfinder Starship Hanger.pdb
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder Starship Hanger.csprojResolveAssemblyReference.cache
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder_Starship_Hanger.Form1.resources
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder_Starship_Hanger.Properties.Resources.resources
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder Starship Hanger.csproj.GenerateResource.Cache
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder Starship Hanger.exe
+C:\Users\Main\documents\visual studio 2015\Projects\Starfinder Starship Hanger\obj\Release\Starfinder Starship Hanger.pdb
